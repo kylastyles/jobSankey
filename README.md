@@ -24,9 +24,9 @@ https://github.com/ashvinbhutekar/Sankey/blob/main/sankey%404.txt
 https://github.com/msquinn/vega-demo/blob/main/lib/spec.json
 
 ### How to Run
-1. Create a virtual environment `python3 -m venv venv`
+1. Create a virtual environment: `python3 -m venv venv`
 2. Edit and paste the environment variables listed below to the bottom of the venv/bin/activate file
-3. Activate the virtual environment `source venv/bin/activate`
+3. Activate the virtual environment: `source venv/bin/activate`
 3. Open a terminal at the root of this directory, and then run the following commands:
 - `make up` to stand up Docker containers
 - *`make pull` to pull data from a Google Sheet (*optional, else create your own csv)
@@ -35,7 +35,8 @@ https://github.com/msquinn/vega-demo/blob/main/lib/spec.json
 
 View the dashboard by opening a browser to localhost:5601/app/dashboards
 
-![Screenshot 2024-05-07 at 10.19.03 PM.png](..%2F..%2FDesktop%2FScreenshot%202024-05-07%20at%2010.19.03%E2%80%AFPM.png)
+![image](https://github.com/user-attachments/assets/bfc9eaf2-bf7a-4174-86d5-7ad623bf7cdb)
+
 
 ### Environment Variables
 Change values as needed.
